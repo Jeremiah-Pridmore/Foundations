@@ -1,0 +1,28 @@
+
+.Product {
+    background-image: linear-gradient(to right,rgb(239, 66, 239), rgb(250, 56, 56));
+}
+
+h5 {
+    padding: 15px;
+    color: rgb(169, 5, 5);
+}
+
+header {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.icon {
+    height: 25px;
+    width: 30px; 
+}
+
+.blackshoe {
+        max-width: 300px;
+        padding: 30px;
+}
+
+hr {
+    color: rgb(179, 8, 8); 
+}
